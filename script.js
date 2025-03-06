@@ -1,4 +1,3 @@
-//your JS code here. If required.
 document.getElementById("btn").addEventListener("click", async function () {
     const text = document.getElementById("text").value.trim();
     const delay = parseInt(document.getElementById("delay").value.trim());
